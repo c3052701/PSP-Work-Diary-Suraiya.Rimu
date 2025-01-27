@@ -1,9 +1,9 @@
 # Profile: Suraiya Rimu
 ### Student ID: 33052701
 
-## Team: Kerridge2
+### Team: Kerridge2
 
-## Weekly Session: 2.00-5.00
+### Weekly Session: 2.00-5.00
 
 ### Team members:
 1. Suraiya Rimu
