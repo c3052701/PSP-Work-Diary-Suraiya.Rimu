@@ -7,4 +7,12 @@ I have written some Non-Functional requirements for our system. And joined our c
 I will attempt to finish the use case diagram.
 
 ## Issues
-I need to discuss with other team members about how we will work on the wirefames of our application.
+I need to discuss how my team and I will collaborate on the wireframes for our project and which tool we will use for this.
+
+
+
+
+
+
+
+
